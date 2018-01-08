@@ -7,7 +7,7 @@ $db['db_password'] ="usbw";
 $db['db_name'] ="cms";
 
 
-//$key woul be, for example, 'db_host', and its $value = 'localhost'
+//$key would be, for example, 'db_host', and its $value = 'localhost'
 //with strtoupper, we transform the $key in upper letters: DB_HOST
 foreach ($db as $key => $value) {
 	define(strtoupper($key), $value);
