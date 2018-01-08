@@ -3,6 +3,8 @@
 
         <!-- Navigation -->
         <?php include "includes/navigation.php"; ?>
+
+        <?php if($connection) echo "right";  ?>
         
         <div id="page-wrapper">
 
