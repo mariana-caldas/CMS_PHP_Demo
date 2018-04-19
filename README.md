@@ -1,6 +1,6 @@
 # VanCode Academy
      
-CMS Blogging System
+CMS Blogging System (in progress)
 
 
 ![Project Image](https://github.com/MarianaSouza/CMS_PHP_Demo/blob/master/images/coursePage.PNG)
