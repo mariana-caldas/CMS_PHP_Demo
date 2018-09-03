@@ -1,4 +1,4 @@
-# VanCode Academy
+# VanCode Academy (courses and tutorials)
      
 CMS Blogging System (in progress)
 

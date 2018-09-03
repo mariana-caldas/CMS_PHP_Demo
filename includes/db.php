@@ -3,7 +3,7 @@
 //Making the connection with constants define()
 $db['db_host'] ="localhost";
 $db['db_user'] ="root";
-$db['db_password'] ="usbw";
+$db['db_password'] ="";
 $db['db_name'] ="cms";
 
 
